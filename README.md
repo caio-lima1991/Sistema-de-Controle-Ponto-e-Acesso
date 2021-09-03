@@ -1,6 +1,4 @@
-# Sistema-de-Controle-Ponto-e-Acesso
-
-## Sistema de Controle Ponto e Acesso
+# Sistema de Controle Ponto e Acesso
 
 API Rest para controle de ponto e acesso dos usuários de uma empresa.
 
